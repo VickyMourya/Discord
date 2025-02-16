@@ -8,7 +8,7 @@ This project is a **Discord Clone** built using **HTML** and **Tailwind CSS**. I
 ## Screenshots
 
 ### Home Page
-![Home Page]()
+![Home Page](./img1)
 
 ### Features Page
 ![Features Page](./screenshots/features.png)
