@@ -4,6 +4,15 @@ This project is a **Discord Clone** built using **HTML** and **Tailwind CSS**. I
 
 ---
 
+
+## Screenshots
+
+### Home Page
+![Home Page]()
+
+### Features Page
+![Features Page](./screenshots/features.png)
+
 ## Features
 
 - **Modern UI Design**: Replicates the aesthetic and layout of Discord.
